@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000129
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། མི་ཕམ་འཇམ་དབྱངས་རྒྱ་མ་ཆོ།
-  sku: RDI-SS-11-1
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-11-1
 web_metadata:
   title:
     en: The Banquet of Supreme Mahayana Nectar:An Explanation of the Intent of “The
